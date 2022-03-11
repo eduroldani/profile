@@ -113,8 +113,8 @@ a:-webkit-any-link {
   .container {
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 150px;   /* This sets the width */
-    margin: 0 auto; /* This automatically sets left/right margins */
+    width: auto;   /* This sets the width */
+    margin: 10px auto; /* This automatically sets left/right margins */
   }
 
   .card-white {
